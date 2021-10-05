@@ -1,0 +1,14 @@
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\bin\Debug\netcoreapp3.1\Dictionary practice.exe
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\bin\Debug\netcoreapp3.1\Dictionary practice.deps.json
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\bin\Debug\netcoreapp3.1\Dictionary practice.runtimeconfig.json
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\bin\Debug\netcoreapp3.1\Dictionary practice.runtimeconfig.dev.json
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\bin\Debug\netcoreapp3.1\Dictionary practice.dll
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\bin\Debug\netcoreapp3.1\Dictionary practice.pdb
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\obj\Debug\netcoreapp3.1\Dictionary practice.csproj.AssemblyReference.cache
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\obj\Debug\netcoreapp3.1\Dictionary practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\obj\Debug\netcoreapp3.1\Dictionary practice.AssemblyInfoInputs.cache
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\obj\Debug\netcoreapp3.1\Dictionary practice.AssemblyInfo.cs
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\obj\Debug\netcoreapp3.1\Dictionary practice.csproj.CoreCompileInputs.cache
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\obj\Debug\netcoreapp3.1\Dictionary practice.dll
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\obj\Debug\netcoreapp3.1\Dictionary practice.pdb
+C:\Users\pran0001\source\repos\Notes\10-5-21\Dictionary practice\obj\Debug\netcoreapp3.1\Dictionary practice.genruntimeconfig.cache

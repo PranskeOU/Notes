@@ -1,0 +1,13 @@
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\bin\Debug\netcoreapp3.1\List practice.exe
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\bin\Debug\netcoreapp3.1\List practice.deps.json
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\bin\Debug\netcoreapp3.1\List practice.runtimeconfig.json
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\bin\Debug\netcoreapp3.1\List practice.runtimeconfig.dev.json
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\bin\Debug\netcoreapp3.1\List practice.dll
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\bin\Debug\netcoreapp3.1\List practice.pdb
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\obj\Debug\netcoreapp3.1\List practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\obj\Debug\netcoreapp3.1\List practice.AssemblyInfoInputs.cache
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\obj\Debug\netcoreapp3.1\List practice.AssemblyInfo.cs
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\obj\Debug\netcoreapp3.1\List practice.csproj.CoreCompileInputs.cache
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\obj\Debug\netcoreapp3.1\List practice.dll
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\obj\Debug\netcoreapp3.1\List practice.pdb
+C:\Users\pran0001\source\repos\Notes\10-5-21\List practice\obj\Debug\netcoreapp3.1\List practice.genruntimeconfig.cache
